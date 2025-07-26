@@ -12,5 +12,4 @@ int main()
     int age = 25;
     printf("My age is %d", age);
     return 0;
-    
 }
